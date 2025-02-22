@@ -27,17 +27,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master's Degree, SE, DLUT"
   location         : "Singapore"
-  employer         : "NaN"
+  employer         : "Coming Soon"
   uri              : # URL
   email            : "rynq_kwos@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "NaN"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-7768-9286"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +64,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "Symnluckea"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
