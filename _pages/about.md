@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Symnluckea's Here"
+title: "Hello"
 author_profile: true
 redirect_from: 
   - /about/
