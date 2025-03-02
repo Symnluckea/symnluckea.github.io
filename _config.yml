@@ -22,7 +22,7 @@ repository               : "Symnluckea/symnluckea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rynq Kwos"
   pronouns         : # example: "she/her"  
   bio              : "Master's Degree, SE, DLUT"
