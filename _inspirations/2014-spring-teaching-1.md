@@ -6,6 +6,6 @@ date: 2023-11-19
 location: "China"
 ---
 
-<XXX：从入门到放弃>
+《XXX：从入门到放弃》
 
 《XXX: Abandon is All You Need》
