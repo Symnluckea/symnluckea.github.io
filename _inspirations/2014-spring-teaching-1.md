@@ -6,6 +6,8 @@ date: 2023-11-19
 location: "China"
 ---
 
-《XXX：从入门到放弃》
+每日英语：
 
-《XXX: Abandon is All You Need》
+CN：《啥啥啥：从入门到放弃》
+
+EN：<XXX: Abandon is All You Need>
